@@ -4,11 +4,6 @@
 #include <string>
 
 using namespace boost::multiprecision;
-adfads
-struct RSANumbers
-{
-
-};
 
 cpp_int gcd(cpp_int a, cpp_int b, cpp_int& x, cpp_int& y) {
 //Extended Euclidian Algorithm utilized to obtain decryption coefficient//
